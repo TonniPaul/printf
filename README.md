@@ -109,4 +109,4 @@ These are all the tasks of this project, the ones that are completed link to the
 
 ### Authors
 * **Paul Oluwatoni** - [ariyoadeoyepaul@gmail.com](https://github.com/tonnipaul)
-* **Robert Etiga** - [laura.derohan@gmail.com](https://github.com/robertetiga)
+* **Robert Etiga** - [robertetiga@gmail.com](https://github.com/robertetiga)
